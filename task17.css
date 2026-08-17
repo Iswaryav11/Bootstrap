@@ -1,0 +1,16 @@
+p
+{
+    font-size: 16px;
+}
+.box
+{
+    border: 1px solid black;
+}
+#title
+{
+    color: blue;
+}
+.highlight
+{
+    background-color: yellow;
+}

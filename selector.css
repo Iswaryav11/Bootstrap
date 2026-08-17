@@ -1,0 +1,35 @@
+.h1{
+    color: red;
+}
+.p1
+{
+    color: blue;
+}
+.p3
+{
+    color: blue;
+}
+#color
+{
+    background-color: chocolate;
+}
+h1,h2,p 
+{
+    font-size: 20px;
+}
+div .pd
+{
+ font-variant: small-caps;
+}
+div>p
+{
+    color: darkgreen;
+}
+a:hover
+{
+    color: red;
+}
+p:first-child
+{
+    color:maroon;
+}

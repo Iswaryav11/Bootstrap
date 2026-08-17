@@ -1,0 +1,45 @@
+.p1{
+    font-family: Arial;
+}
+
+.p2{
+    font-family: "Times New Roman";
+}
+
+.p3{
+    font-family: Verdana;
+}
+.font-size{
+    font-size: larger;
+}
+.font-style{
+    font-style: italic;
+}
+.font-family{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+h1{
+    font-family: 'Roboto';
+}
+p{
+font-family: 'Arial';
+}
+.transform{
+    text-transform: uppercase;
+}
+.decoration{
+    text-decoration: underline;
+}
+.space{
+    letter-spacing: 10px;
+}
+article{
+    font-style: italic;
+}
+h2{
+    font-size: larger;
+}
+.p4{
+    line-height: 50px;
+}
